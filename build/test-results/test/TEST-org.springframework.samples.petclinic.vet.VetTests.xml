@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.samples.petclinic.vet.VetTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-09T15:29:49" hostname="dsi" time="0.013">
+  <properties/>
+  <testcase name="testSerialization" classname="org.springframework.samples.petclinic.vet.VetTests" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
